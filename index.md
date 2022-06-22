@@ -4,7 +4,8 @@
 
 ### Data Science
 
-[Sentiment Analysis From twitter data by meaning of words](https://github.com/dhanandipta/data_science_project/blob/main/Sentiment_Analysis_I_Made_Dhanan_Pradipta.ipynb) <br>
+[Sentiment Analysis From twitter data by meaning of words](https://github.com/dhanandipta/data_science_project/blob/main/Sentiment_Analysis_I_Made_Dhanan_Pradipta.ipynb)
+
 <img src="images/raw.png?raw=true"/>
 
 ---
