@@ -9,12 +9,12 @@
 <img src="images/raw.png?raw=true"/>
 
 ---
-[Analysis Churn Customer]([/pdf/sample_presentation.pdf](https://github.com/dhanandipta/data_science_project/blob/main/churn_customer_I_Made_Dhanan_Pradipta.ipynb)
+[Analysis Churn Customer](https://github.com/dhanandipta/data_science_project/blob/main/churn_customer_I_Made_Dhanan_Pradipta.ipynb)
 
 <img src="images/churn?raw=true"/>
 
 ---
-[Supermarket Analysis and Deployment using heroku](http://example.com/](https://dhanan-pradipta-ftds-001-p0m1.herokuapp.com/)
+[Supermarket Analysis and Deployment using heroku](https://dhanan-pradipta-ftds-001-p0m1.herokuapp.com/)
 
 <img src="images/supermarket.png?raw=true"/>
 
