@@ -11,7 +11,7 @@
 ---
 [Analysis Churn Customer](https://github.com/dhanandipta/data_science_project/blob/main/churn_customer_I_Made_Dhanan_Pradipta.ipynb)
 
-<img src="images/churn?raw=true"/>
+<img src="images/churn.png?raw=true"/>
 
 ---
 [Supermarket Analysis and Deployment using heroku](https://dhanan-pradipta-ftds-001-p0m1.herokuapp.com/)
@@ -20,13 +20,13 @@
 
 ---
 
-### Category Name 2
+### Other Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Fuel Consumption Analysis](https://github.com/dhanandipta/data_science_project/blob/main/autompg_i_made_dhanan_pradipta.ipynb)
+- [Heart attack prediction](https://github.com/dhanandipta/data_science_project/blob/main/cvd_failure_predict_rfc_gdb.ipynb)
+- [Tomorrow rain prediction](https://github.com/dhanandipta/data_science_project/blob/main/logreg_svm_rain_tomorrow.ipynb)
+- [insurance cost prediction](https://github.com/dhanandipta/data_science_project/blob/main/linreg_predict_insurance_cost.ipynb)
+- [Deposit classification](https://github.com/dhanandipta/data_science_project/blob/main/multiple_model_clf_deposit.ipynb)
 
 ---
 
