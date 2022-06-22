@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](https://github.com/dhanandipta/data_science_project/blob/main/Sentiment_Analysis_I_Made_Dhanan_Pradipta.ipynb)
+<img src="images/raw.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
