@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](https://github.com/dhanandipta/data_science_project/blob/main/Sentiment_Analysis_I_Made_Dhanan_Pradipta.ipynb)
+[Sentiment Analysis From twitter data by meaning of words](https://github.com/dhanandipta/data_science_project/blob/main/Sentiment_Analysis_I_Made_Dhanan_Pradipta.ipynb)
 <img src="images/raw.png?raw=true"/>
 
 ---
